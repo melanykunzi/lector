@@ -16,7 +16,7 @@ const NextButton = styled.button`
 
 const ResetButton = styled.button`
   background-color: red;
-  color: black;
+  color: white;
   border: none;
   padding: 10px 20px;
   cursor: pointer;
