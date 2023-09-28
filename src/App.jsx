@@ -60,7 +60,9 @@ function App() {
       <br />
       <AddButton onClick={handleAddText}>Agregar Texto</AddButton>
       <DialogPractice dialogues={dialogues} />
-      <p>Tené en cuenta que cuando cargues los dialogos tienen que estar separados por un guión: -</p>
+      <p>Tené en cuenta que cuando cargues los diálogos tienen que estar separados por un guión: -</p>
+      <p>Ejemplo:</p>
+      <p>-Romeo: Sigo diciendo que no deberían quitarme las esperanzas. -Benvolio: Solo te estoy aconsejando, no sería buena idea que te unieras con una Capuleto, pero no te quitare tus locas esperanzas.</p>
       <p>suerte loco</p>
     </AppContainer>
   );
